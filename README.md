@@ -7,7 +7,7 @@
 - 📄 I’m currently working on Java and CICD stacks in the Automotive domain
 - 🔭 I enjoy engaging with challenging projects, particularly those involving Java, Spring Boot, AWS, and CICD stacks.
 - 🔎 Currently exploring the realms of AI and data science to unlock possibilities that can positively impact communities worldwide.
-- 🌍 I speak English (C1), Arabic, Tamil,Hindi
+- 🌍 I speak English, Arabic, Tamil,Hindi
 - 💬 Feel free to explore my repositories and don't hesitate to reach out for collaboration or discussions!
 
 <!--
