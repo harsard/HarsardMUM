@@ -4,7 +4,7 @@
 #### Senior Software Engineer
 
 ***
-- 📄 I’m currently working on Java and CICD stacks in the Automotive domain
+- 📄 I’m currently working on Java stack with AWS and CICD  in the Automotive Industry Application development
 - 🔭 I enjoy engaging with challenging projects, particularly those involving Java, Spring Boot,Angular, AWS, and CICD stacks.
 - 🔎 Currently exploring the realms of AI and data science to unlock possibilities that can positively impact communities worldwide.
 - 🌍 I speak English, Arabic,Hindi
